@@ -2,9 +2,26 @@
 
 풀스택 개발자. 웹 서비스와 AI · 보안 프로젝트를 설계하고 만듭니다.
 
-- [포트폴리오](https://mmyonaa.github.io)
-- [블로그](https://mmyonaa.github.io/blog/) — MCP · 정보처리기사 · 보안
+- **[포트폴리오](https://mmyonaa.github.io)** — 지금까지 만든 것들
+- **[블로그](https://mmyonaa.github.io/blog/)** — MCP · 정보처리기사 · 보안
 
-## 주로 쓰는 것
+## daily.mcp
 
-TypeScript · Vue · Next.js · Koa · Fastify · PostgreSQL
+MCP 서버가 주제를 고르고 매일 글 한 편을 발행하는 블로그를 만들고 있습니다.
+서버는 LLM을 호출하지 않고 도구 · 프롬프트 · 리소스만 제공하며, 글은 Astro SSG로 정적 배포됩니다.
+
+[블로그 보기](https://mmyonaa.github.io/blog/) · [소스](https://github.com/mmyonaa/blog)
+
+## 기술
+
+`TypeScript` `Vue` `Next.js` `Astro` `Node.js` `Koa` `Fastify` `PostgreSQL`
+
+## 최근 글
+
+<!-- posts:start -->
+- [Entra ID를 뚫는 역직렬화 결함 — CVSS 10.0, 그리고 엇갈리는 "익스플로잇 여부"](https://mmyonaa.github.io/blog/blog/2026-08-26-entra-id-cve-2026-69836/) — <sub>2026-08-26</sub>
+- [정렬 알고리즘 비교 — 버블·선택·삽입·퀵·병합](https://mmyonaa.github.io/blog/blog/2026-08-25-sorting-algorithms-comparison/) — <sub>2026-08-25</sub>
+- [MCP 로깅 capability — 서버가 클라이언트에게 실어 보내는 구조화된 로그](https://mmyonaa.github.io/blog/blog/2026-08-24-mcp-logging-capability/) — <sub>2026-08-24</sub>
+- [에이전트가 서로를 어떻게 찾나 — DNS를 디렉터리로 쓰는 DNS-AID](https://mmyonaa.github.io/blog/blog/2026-08-23-dns-aid-mcp-agent-discovery/) — <sub>2026-08-23</sub>
+- [라이브러리가 아니라 curl이 뚫린다 — libssh2 치명적 원격코드실행 (CVE-2026-55200)](https://mmyonaa.github.io/blog/blog/2026-08-22-libssh2-cve-2026-55200/) — <sub>2026-08-22</sub>
+<!-- posts:end -->
