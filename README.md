@@ -2,10 +2,6 @@
 
 **Full-stack Developer** · Seoul, Korea
 
-사용자 중심의 안정적이고 확장 가능한 웹 서비스를 만듭니다.
-보안 AI 플랫폼부터 글로벌 커머스 · 키오스크까지 서비스의 처음부터 끝까지 직접 만들어 왔고,
-프론트엔드부터 백엔드, 인프라까지 폭넓게 다룹니다.
-
 [**포트폴리오**](https://mmyonaa.github.io) · [**블로그**](https://mmyonaa.github.io/blog/) · [**LinkedIn**](https://www.linkedin.com/in/hyona-lim-a3a626319/)
 
 ## daily.mcp
