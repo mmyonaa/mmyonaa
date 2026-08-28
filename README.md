@@ -10,8 +10,8 @@
 
 ## daily.mcp
 
-MCP 서버가 주제를 고르고 매일 글 한 편을 발행하는 블로그를 만들고 있습니다.
-서버는 LLM을 호출하지 않고 도구 · 프롬프트 · 리소스만 제공하며, 글은 Astro SSG로 정적 배포됩니다.
+직접 만든 MCP 서버로 주제 선정부터 발행까지 굴리는 블로그를 만들고 있습니다.
+서버가 도구 · 프롬프트 · 리소스를 제공하고, 글은 Astro SSG로 정적 배포됩니다.
 
 [블로그 보기](https://mmyonaa.github.io/blog/) · [소스](https://github.com/mmyonaa/blog)
 
