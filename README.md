@@ -8,22 +8,6 @@
 
 [**포트폴리오**](https://mmyonaa.github.io) · [**블로그**](https://mmyonaa.github.io/blog/) · [**LinkedIn**](https://www.linkedin.com/in/hyona-lim-a3a626319/)
 
-## 하는 일
-
-**SentiveX 보안 플랫폼** — InBridge · 2025.09 – 현재
-멀티테넌트 SIEM 보안 플랫폼. Fastify AI 서버의 멀티 에이전트 인시던트 분석 파이프라인과
-LiteLLM 게이트웨이 · 멀티테넌트 BYOK 설계·개발을 주도하고, Next.js 15 풀스택 웹에도 참여합니다.
-
-**eSIM 판매 플랫폼** — 2023.11 – 2025.05
-서비스 · 키오스크 · 어드민 · 공유 미들웨어로 이뤄진 플랫폼의 핵심 개발자.
-다중 PG 결제, RBAC 권한 · 정산, eSIM 발급, 키오스크 하드웨어 연동을 담당하고 일본 현지 실운영을 대응했습니다.
-
-**보광 극장 홍보 · 대관 사이트** — 외주 · 2025.09 –
-기획 · 설계 · 개발 · 인프라까지 1인으로 완성. vite-ssg 기반 SSG와 동적 메타 · JSON-LD로 SEO를 최적화하고
-AWS · PM2 · Nginx로 배포 · 운영합니다.
-
-전체 프로젝트는 [포트폴리오](https://mmyonaa.github.io)에 정리해두었습니다.
-
 ## daily.mcp
 
 MCP 서버가 주제를 고르고 매일 글 한 편을 발행하는 블로그를 만들고 있습니다.
