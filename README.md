@@ -1,9 +1,28 @@
 # 임현아 (Hyonah Lim)
 
-풀스택 개발자. 웹 서비스와 AI · 보안 프로젝트를 설계하고 만듭니다.
+**Full-stack Developer** · Seoul, Korea
 
-- **[포트폴리오](https://mmyonaa.github.io)** — 지금까지 만든 것들
-- **[블로그](https://mmyonaa.github.io/blog/)** — MCP · 정보처리기사 · 보안
+사용자 중심의 안정적이고 확장 가능한 웹 서비스를 만듭니다.
+보안 AI 플랫폼부터 글로벌 커머스 · 키오스크까지 서비스의 처음부터 끝까지 직접 만들어 왔고,
+프론트엔드부터 백엔드, 인프라까지 폭넓게 다룹니다.
+
+[**포트폴리오**](https://mmyonaa.github.io) · [**블로그**](https://mmyonaa.github.io/blog/) · [**LinkedIn**](https://www.linkedin.com/in/hyona-lim-a3a626319/)
+
+## 하는 일
+
+**SentiveX 보안 플랫폼** — InBridge · 2025.09 – 현재
+멀티테넌트 SIEM 보안 플랫폼. Fastify AI 서버의 멀티 에이전트 인시던트 분석 파이프라인과
+LiteLLM 게이트웨이 · 멀티테넌트 BYOK 설계·개발을 주도하고, Next.js 15 풀스택 웹에도 참여합니다.
+
+**eSIM 판매 플랫폼** — 2023.11 – 2025.05
+서비스 · 키오스크 · 어드민 · 공유 미들웨어로 이뤄진 플랫폼의 핵심 개발자.
+다중 PG 결제, RBAC 권한 · 정산, eSIM 발급, 키오스크 하드웨어 연동을 담당하고 일본 현지 실운영을 대응했습니다.
+
+**보광 극장 홍보 · 대관 사이트** — 외주 · 2025.09 –
+기획 · 설계 · 개발 · 인프라까지 1인으로 완성. vite-ssg 기반 SSG와 동적 메타 · JSON-LD로 SEO를 최적화하고
+AWS · PM2 · Nginx로 배포 · 운영합니다.
+
+전체 프로젝트는 [포트폴리오](https://mmyonaa.github.io)에 정리해두었습니다.
 
 ## daily.mcp
 
@@ -14,14 +33,42 @@ MCP 서버가 주제를 고르고 매일 글 한 편을 발행하는 블로그�
 
 ## 기술
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![Vue](https://img.shields.io/badge/Vue-4FC08D?logo=vuedotjs&logoColor=white)
+**Frontend**
+
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
-![Astro](https://img.shields.io/badge/Astro-BC52EE?logo=astro&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Pinia](https://img.shields.io/badge/Pinia-FFD859?logo=pinia&logoColor=black)
+![SCSS](https://img.shields.io/badge/SCSS-CC6699?logo=sass&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=white)
+
+**Backend**
+
 ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?logo=nodedotjs&logoColor=white)
 ![Koa](https://img.shields.io/badge/Koa-33333D?logo=koa&logoColor=white)
 ![Fastify](https://img.shields.io/badge/Fastify-000000?logo=fastify&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-FF4438?logo=redis&logoColor=white)
+![BullMQ](https://img.shields.io/badge/BullMQ-E10E0E)
+
+**Infra · Tooling**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E)
+![Nginx](https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white)
+![PM2](https://img.shields.io/badge/PM2-2B037A?logo=pm2&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-BC52EE?logo=astro&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white)
+
+**AI**
+
+![Anthropic](https://img.shields.io/badge/Anthropic-D97757?logo=anthropic&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-000000?logo=modelcontextprotocol&logoColor=white)
+![LiteLLM](https://img.shields.io/badge/LiteLLM-4B29F5)
+![AI SDK](https://img.shields.io/badge/AI%20SDK-000000?logo=vercel&logoColor=white)
 
 ## 최근 글
 
