@@ -14,7 +14,14 @@ MCP 서버가 주제를 고르고 매일 글 한 편을 발행하는 블로그�
 
 ## 기술
 
-`TypeScript` `Vue` `Next.js` `Astro` `Node.js` `Koa` `Fastify` `PostgreSQL`
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![Vue](https://img.shields.io/badge/Vue-4FC08D?logo=vuedotjs&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-BC52EE?logo=astro&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?logo=nodedotjs&logoColor=white)
+![Koa](https://img.shields.io/badge/Koa-33333D?logo=koa&logoColor=white)
+![Fastify](https://img.shields.io/badge/Fastify-000000?logo=fastify&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
 
 ## 최근 글
 
