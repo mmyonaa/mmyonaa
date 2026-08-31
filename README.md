@@ -53,9 +53,9 @@
 ## 최근 글
 
 <!-- posts:start -->
+- [에이전트가 로봇팔을 쥔다 — Anthropic Model Hardware Standard 뜯어보기](https://mmyonaa.github.io/blog/blog/2026-08-31-model-hardware-standard/) — <sub>2026-08-31</sub>
 - [ChainDrop — npm 패키지 하나 설치했다가 CI/CD 자격증명이 통째로 털린 이유](https://mmyonaa.github.io/blog/blog/2026-08-30-chaindrop-npm-supply-chain-worm/) — <sub>2026-08-30</sub>
 - [ARP 스푸핑 — 스위치 환경에서 어떻게 스니핑하나](https://mmyonaa.github.io/blog/blog/2026-08-30-arp-spoofing/) — <sub>2026-08-30</sub>
 - [리눅스 파일 권한과 SetUID·SetGID·스티키 비트](https://mmyonaa.github.io/blog/blog/2026-08-30-linux-permission-setuid/) — <sub>2026-08-30</sub>
 - [이진 트리 순회 — 전위·중위·후위](https://mmyonaa.github.io/blog/blog/2026-08-29-binary-tree-traversal/) — <sub>2026-08-29</sub>
-- [MCP 도구가 JSON을 돌려준다 — outputSchema와 structuredContent](https://mmyonaa.github.io/blog/blog/2026-08-28-mcp-tool-structured-output/) — <sub>2026-08-28</sub>
 <!-- posts:end -->
