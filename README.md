@@ -53,9 +53,9 @@
 ## 최근 글
 
 <!-- posts:start -->
+- [JFrog Artifactory 인증 우회 — 저장소 관리자 권한이 4일 만에 뚫린 이유](https://mmyonaa.github.io/blog/2026-09-04-jfrog-artifactory-auth-bypass-cve-2026-82329/) — <sub>2026-09-04</sub>
 - [그래프 탐색 — BFS와 DFS는 무엇이 다른가](https://mmyonaa.github.io/blog/2026-09-03-graph-traversal-bfs-dfs/) — <sub>2026-09-03</sub>
 - [MCP에서 Resource로 만들지 Tool로 만들지 — 기준은 부작용이다](https://mmyonaa.github.io/blog/2026-09-02-mcp-resource-vs-tool/) — <sub>2026-09-02</sub>
 - [SQL 인젝션 — 원리와 근본 방어](https://mmyonaa.github.io/blog/2026-09-01-sql-injection/) — <sub>2026-09-01</sub>
 - [에이전트가 로봇팔을 쥔다 — Anthropic Model Hardware Standard 뜯어보기](https://mmyonaa.github.io/blog/2026-08-31-model-hardware-standard/) — <sub>2026-08-31</sub>
-- [ChainDrop — npm 패키지 하나 설치했다가 CI/CD 자격증명이 통째로 털린 이유](https://mmyonaa.github.io/blog/2026-08-30-chaindrop-npm-supply-chain-worm/) — <sub>2026-08-30</sub>
 <!-- posts:end -->
