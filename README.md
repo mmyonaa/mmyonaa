@@ -53,9 +53,9 @@
 ## 최근 글
 
 <!-- posts:start -->
+- [Superpowers — 절차를 강제하는 Claude Code 스킬이 가장 빨리 자란 이유](https://mmyonaa.github.io/blog/2026-09-10-superpowers-claude-code-skill-growth/) — <sub>2026-09-10</sub>
 - [github.dev, 링크 클릭 한 번으로 GitHub 토큰이 넘어간 이유](https://mmyonaa.github.io/blog/2026-09-09-vscode-github-dev-oauth-token-theft/) — <sub>2026-09-09</sub>
 - [프로세스 동기화 — 임계구역, 뮤텍스, 세마포어](https://mmyonaa.github.io/blog/2026-09-08-process-synchronization/) — <sub>2026-09-08</sub>
 - [MCP Prompts — 서버가 미리 만든 프롬프트를 내려주는 세 번째 primitive](https://mmyonaa.github.io/blog/2026-09-07-mcp-prompts/) — <sub>2026-09-07</sub>
 - [블록 암호 운영 모드 — ECB, CBC, CTR은 무엇이 다른가](https://mmyonaa.github.io/blog/2026-09-06-block-cipher-modes/) — <sub>2026-09-06</sub>
-- [Agent Plugins 1.0 — MCP와 Skill을 한 상자에 담는 표준, 그런데 감독자는 누구인가](https://mmyonaa.github.io/blog/2026-09-05-agent-plugins-1-0/) — <sub>2026-09-05</sub>
 <!-- posts:end -->
