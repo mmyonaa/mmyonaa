@@ -53,9 +53,9 @@
 ## 최근 글
 
 <!-- posts:start -->
+- [2026년 9월 패치 화요일 — 역대 최대 974건, 그리고 이미 뚫린 제로데이 둘](https://mmyonaa.github.io/blog/2026-09-14-patch-tuesday-september-2026-zero-days/) — <sub>2026-09-14</sub>
 - [UML 다이어그램 — 구조적 모델과 행위적 모델](https://mmyonaa.github.io/blog/2026-09-13-uml-diagrams/) — <sub>2026-09-13</sub>
 - [MCP Completions — 프롬프트 인자가 스스로 후보를 알려주는 법](https://mmyonaa.github.io/blog/2026-09-12-mcp-completions-capability/) — <sub>2026-09-12</sub>
 - [위험 관리 — 자산·위협·취약점을 저울에 올리는 법](https://mmyonaa.github.io/blog/2026-09-11-risk-management/) — <sub>2026-09-11</sub>
 - [Superpowers — 절차를 강제하는 Claude Code 스킬이 가장 빨리 자란 이유](https://mmyonaa.github.io/blog/2026-09-10-superpowers-claude-code-skill-growth/) — <sub>2026-09-10</sub>
-- [github.dev, 링크 클릭 한 번으로 GitHub 토큰이 넘어간 이유](https://mmyonaa.github.io/blog/2026-09-09-vscode-github-dev-oauth-token-theft/) — <sub>2026-09-09</sub>
 <!-- posts:end -->
