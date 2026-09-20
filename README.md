@@ -53,9 +53,9 @@
 ## 최근 글
 
 <!-- posts:start -->
+- [Paper2Agent — 연구 논문을 재현 가능한 MCP 서버로 바꾸는 법](https://mmyonaa.github.io/blog/2026-09-20-paper2agent-research-paper-mcp-server/) — <sub>2026-09-20</sub>
 - [V8 제로데이 CVE-2026-87491 — Chrome이 "중간" 등급이라 부른 버그가 뚫린 이유](https://mmyonaa.github.io/blog/2026-09-19-chrome-v8-zero-day-cve-2026-87491/) — <sub>2026-09-19</sub>
 - [데이터베이스 정규화 — 이상 현상에서 BCNF까지](https://mmyonaa.github.io/blog/2026-09-18-db-normalization/) — <sub>2026-09-18</sub>
 - [MCP Pagination — 커서는 스펙에 있는데 이 서버는 왜 안 쓰는가](https://mmyonaa.github.io/blog/2026-09-17-mcp-pagination-cursor/) — <sub>2026-09-17</sub>
 - [공개키 암호의 뼈대 — RSA와 Diffie-Hellman](https://mmyonaa.github.io/blog/2026-09-16-rsa-diffie-hellman/) — <sub>2026-09-16</sub>
-- [에이전트가 자기가 고친 UI를 직접 본다 — Compose Hot Reload의 MCP 서버](https://mmyonaa.github.io/blog/2026-09-15-compose-hot-reload-mcp-agent/) — <sub>2026-09-15</sub>
 <!-- posts:end -->
