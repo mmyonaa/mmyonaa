@@ -53,9 +53,9 @@
 ## 최근 글
 
 <!-- posts:start -->
+- [GitLab CVSS 10.0 경로 탐색 취약점 — 로그인 없이 서버 파일을 읽어낸 CVE-2026-85706](https://mmyonaa.github.io/blog/2026-09-24-gitlab-cve-2026-85706-path-traversal/) — <sub>2026-09-24</sub>
 - [가상메모리와 페이지 교체 알고리즘 — FIFO부터 LRU까지](https://mmyonaa.github.io/blog/2026-09-23-virtual-memory-page-replacement/) — <sub>2026-09-23</sub>
 - [MCP Roots — 서버가 작업 경계를 클라이언트에게 묻는 법](https://mmyonaa.github.io/blog/2026-09-22-mcp-roots-workspace-boundary/) — <sub>2026-09-22</sub>
 - [윈도우 인증 구조 — SAM과 LSA, NTLM은 어떻게 얽히는가](https://mmyonaa.github.io/blog/2026-09-21-windows-auth-sam-lsa/) — <sub>2026-09-21</sub>
 - [Paper2Agent — 연구 논문을 재현 가능한 MCP 서버로 바꾸는 법](https://mmyonaa.github.io/blog/2026-09-20-paper2agent-research-paper-mcp-server/) — <sub>2026-09-20</sub>
-- [V8 제로데이 CVE-2026-87491 — Chrome이 "중간" 등급이라 부른 버그가 뚫린 이유](https://mmyonaa.github.io/blog/2026-09-19-chrome-v8-zero-day-cve-2026-87491/) — <sub>2026-09-19</sub>
 <!-- posts:end -->
