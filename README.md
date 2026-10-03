@@ -53,9 +53,9 @@
 ## 최근 글
 
 <!-- posts:start -->
+- [테스트 레벨과 통합 테스트 — 단위부터 인수까지, 하향식·상향식·스텁·드라이버](https://mmyonaa.github.io/blog/2026-10-03-test-levels-integration-stub-driver/) — <sub>2026-10-03</sub>
+- [MCP 도구 목록은 고정이 아니다 — enable·disable과 tools/list_changed 알림](https://mmyonaa.github.io/blog/2026-10-02-mcp-dynamic-tool-list-changed/) — <sub>2026-10-02</sub>
 - [XSS와 CSRF — 헷갈리는 두 공격 구분하기](https://mmyonaa.github.io/blog/2026-10-01-xss-vs-csrf/) — <sub>2026-10-01</sub>
 - [Block의 Buzz — 에이전트에게 계정 대신 키를 주면 무엇이 달라지나](https://mmyonaa.github.io/blog/2026-09-30-block-buzz-agent-identity-workspace/) — <sub>2026-09-30</sub>
 - [protobuf.js 코드 실행 취약점 — 스키마 파일도 입력이다](https://mmyonaa.github.io/blog/2026-09-29-protobufjs-schema-code-execution/) — <sub>2026-09-29</sub>
-- [소프트웨어 비용 산정 — LOC부터 COCOMO, 기능점수법까지](https://mmyonaa.github.io/blog/2026-09-28-software-cost-estimation-cocomo/) — <sub>2026-09-28</sub>
-- [DoS와 DDoS — SYN 플러딩, Smurf, Slowloris는 어디를 노리는가](https://mmyonaa.github.io/blog/2026-09-26-ddos-attack-types/) — <sub>2026-09-26</sub>
 <!-- posts:end -->
