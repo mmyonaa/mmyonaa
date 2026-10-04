@@ -53,9 +53,9 @@
 ## 최근 글
 
 <!-- posts:start -->
+- [TanStack 침해: 2FA와 provenance가 다 켜져 있었는데 악성 버전이 나간 경로](https://mmyonaa.github.io/blog/2026-10-04-tanstack-npm-pwn-request-cache-poisoning/) — <sub>2026-10-04</sub>
 - [테스트 레벨과 통합 테스트 — 단위부터 인수까지, 하향식·상향식·스텁·드라이버](https://mmyonaa.github.io/blog/2026-10-03-test-levels-integration-stub-driver/) — <sub>2026-10-03</sub>
 - [MCP 도구 목록은 고정이 아니다 — enable·disable과 tools/list_changed 알림](https://mmyonaa.github.io/blog/2026-10-02-mcp-dynamic-tool-list-changed/) — <sub>2026-10-02</sub>
 - [XSS와 CSRF — 헷갈리는 두 공격 구분하기](https://mmyonaa.github.io/blog/2026-10-01-xss-vs-csrf/) — <sub>2026-10-01</sub>
 - [Block의 Buzz — 에이전트에게 계정 대신 키를 주면 무엇이 달라지나](https://mmyonaa.github.io/blog/2026-09-30-block-buzz-agent-identity-workspace/) — <sub>2026-09-30</sub>
-- [protobuf.js 코드 실행 취약점 — 스키마 파일도 입력이다](https://mmyonaa.github.io/blog/2026-09-29-protobufjs-schema-code-execution/) — <sub>2026-09-29</sub>
 <!-- posts:end -->
