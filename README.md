@@ -53,9 +53,9 @@
 ## 최근 글
 
 <!-- posts:start -->
+- [디스크 스케줄링 — FCFS, SSTF, SCAN, LOOK의 이동 거리 비교](https://mmyonaa.github.io/blog/2026-10-08-disk-scheduling/) — <sub>2026-10-08</sub>
 - [MCP 진행 알림과 취소 — 오래 걸리는 도구를 호출자가 지켜보고 끊게 하는 법](https://mmyonaa.github.io/blog/2026-10-07-mcp-progress-and-cancellation/) — <sub>2026-10-07</sub>
 - [버퍼 오버플로우 — 스택이 무너지는 원리와 방어](https://mmyonaa.github.io/blog/2026-10-06-buffer-overflow/) — <sub>2026-10-06</sub>
 - [Uber MCP Gateway 설계: 서버가 수백 개가 되면 MCP에서 무엇이 먼저 무너지나](https://mmyonaa.github.io/blog/2026-10-05-uber-mcp-gateway-registry-discovery/) — <sub>2026-10-05</sub>
 - [TanStack 침해: 2FA와 provenance가 다 켜져 있었는데 악성 버전이 나간 경로](https://mmyonaa.github.io/blog/2026-10-04-tanstack-npm-pwn-request-cache-poisoning/) — <sub>2026-10-04</sub>
-- [테스트 레벨과 통합 테스트 — 단위부터 인수까지, 하향식·상향식·스텁·드라이버](https://mmyonaa.github.io/blog/2026-10-03-test-levels-integration-stub-driver/) — <sub>2026-10-03</sub>
 <!-- posts:end -->
