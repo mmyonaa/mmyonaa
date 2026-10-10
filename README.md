@@ -53,9 +53,9 @@
 ## 최근 글
 
 <!-- posts:start -->
+- [MCP 스캐너 "이상 없음"은 승인이 아니다: Pluto 실험과 CoSAI v2.0 보증 수준으로 읽기](https://mmyonaa.github.io/blog/2026-10-10-mcp-clean-scan-cosai-assurance-levels/) — <sub>2026-10-10</sub>
 - [Atlassian CVE-2026-21589: 8개 제품을 한 번에 여는 `::` 경로 순회와 Crowd 연쇄](https://mmyonaa.github.io/blog/2026-10-09-atlassian-cve-2026-21589-webresource-path-traversal/) — <sub>2026-10-09</sub>
 - [디스크 스케줄링 — FCFS, SSTF, SCAN, LOOK의 이동 거리 비교](https://mmyonaa.github.io/blog/2026-10-08-disk-scheduling/) — <sub>2026-10-08</sub>
 - [MCP 진행 알림과 취소 — 오래 걸리는 도구를 호출자가 지켜보고 끊게 하는 법](https://mmyonaa.github.io/blog/2026-10-07-mcp-progress-and-cancellation/) — <sub>2026-10-07</sub>
 - [버퍼 오버플로우 — 스택이 무너지는 원리와 방어](https://mmyonaa.github.io/blog/2026-10-06-buffer-overflow/) — <sub>2026-10-06</sub>
-- [Uber MCP Gateway 설계: 서버가 수백 개가 되면 MCP에서 무엇이 먼저 무너지나](https://mmyonaa.github.io/blog/2026-10-05-uber-mcp-gateway-registry-discovery/) — <sub>2026-10-05</sub>
 <!-- posts:end -->
