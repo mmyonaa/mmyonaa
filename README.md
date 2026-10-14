@@ -53,9 +53,9 @@
 ## 최근 글
 
 <!-- posts:start -->
+- [FortiMail 제로데이 CVE-2026-104286 — 경로 순회와 널 바이트가 한 세트로 묶일 때](https://mmyonaa.github.io/blog/2026-10-14-fortimail-cve-2026-104286-null-byte-file-write/) — <sub>2026-10-14</sub>
+- [동시성 제어 — 로킹, 2단계 로킹, 타임스탬프 순서](https://mmyonaa.github.io/blog/2026-10-13-concurrency-control/) — <sub>2026-10-13</sub>
 - [MCP 리소스 템플릿 — URI 하나로 수많은 리소스를 노출하는 법](https://mmyonaa.github.io/blog/2026-10-12-mcp-resource-templates/) — <sub>2026-10-12</sub>
 - [방화벽·IDS·IPS·WAF는 무엇이 다른가 — 위치와 판단 대상으로 구분하기](https://mmyonaa.github.io/blog/2026-10-11-firewall-ids-ips-waf/) — <sub>2026-10-11</sub>
 - [MCP 스캐너 "이상 없음"은 승인이 아니다: Pluto 실험과 CoSAI v2.0 보증 수준으로 읽기](https://mmyonaa.github.io/blog/2026-10-10-mcp-clean-scan-cosai-assurance-levels/) — <sub>2026-10-10</sub>
-- [Atlassian CVE-2026-21589: 8개 제품을 한 번에 여는 `::` 경로 순회와 Crowd 연쇄](https://mmyonaa.github.io/blog/2026-10-09-atlassian-cve-2026-21589-webresource-path-traversal/) — <sub>2026-10-09</sub>
-- [디스크 스케줄링 — FCFS, SSTF, SCAN, LOOK의 이동 거리 비교](https://mmyonaa.github.io/blog/2026-10-08-disk-scheduling/) — <sub>2026-10-08</sub>
 <!-- posts:end -->
