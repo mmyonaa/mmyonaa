@@ -53,9 +53,9 @@
 ## 최근 글
 
 <!-- posts:start -->
+- [GitLab AI Gateway CVE-2026-90970 — 프롬프트 템플릿 샌드박스가 뚫리면 게이트웨이 호스트가 열린다](https://mmyonaa.github.io/blog/2026-10-19-gitlab-ai-gateway-template-sandbox-escape/) — <sub>2026-10-19</sub>
 - [네트워크 장비 — 리피터·허브·브리지·스위치·라우터·게이트웨이](https://mmyonaa.github.io/blog/2026-10-18-network-devices/) — <sub>2026-10-18</sub>
 - [MCP 서버에 인증 붙이기 — 401 한 번에서 토큰까지 가는 길](https://mmyonaa.github.io/blog/2026-10-17-mcp-authorization-oauth/) — <sub>2026-10-17</sub>
 - [PKI와 인증서 — CA가 보증하고 CRL·OCSP가 취소한다](https://mmyonaa.github.io/blog/2026-10-16-pki-certificate/) — <sub>2026-10-16</sub>
 - [MCP 생태계는 리비전 다섯 개를 동시에 말한다 — 최신 클라이언트가 조용히 실패하는 자리](https://mmyonaa.github.io/blog/2026-10-15-mcp-protocol-revision-fragmentation/) — <sub>2026-10-15</sub>
-- [FortiMail 제로데이 CVE-2026-104286 — 경로 순회와 널 바이트가 한 세트로 묶일 때](https://mmyonaa.github.io/blog/2026-10-14-fortimail-cve-2026-104286-null-byte-file-write/) — <sub>2026-10-14</sub>
 <!-- posts:end -->
