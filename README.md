@@ -53,9 +53,9 @@
 ## 최근 글
 
 <!-- posts:start -->
+- [빅데이터란 무엇인가 — 3V와 정형·반정형·비정형 데이터](https://mmyonaa.github.io/blog/2026-10-22-bigdata-3v-data-types/) — <sub>2026-10-22</sub>
 - [악성코드 분류 — 바이러스·웜·트로이목마·루트킷은 무엇이 다른가](https://mmyonaa.github.io/blog/2026-10-21-malware-types/) — <sub>2026-10-21</sub>
 - [REA: 바이너리를 읽는 MCP 서버가 GitHub 트렌딩 1위가 된 이유](https://mmyonaa.github.io/blog/2026-10-20-rea-reverse-engineering-mcp-server/) — <sub>2026-10-20</sub>
 - [GitLab AI Gateway CVE-2026-90970 — 프롬프트 템플릿 샌드박스가 뚫리면 게이트웨이 호스트가 열린다](https://mmyonaa.github.io/blog/2026-10-19-gitlab-ai-gateway-template-sandbox-escape/) — <sub>2026-10-19</sub>
 - [네트워크 장비 — 리피터·허브·브리지·스위치·라우터·게이트웨이](https://mmyonaa.github.io/blog/2026-10-18-network-devices/) — <sub>2026-10-18</sub>
-- [MCP 서버에 인증 붙이기 — 401 한 번에서 토큰까지 가는 길](https://mmyonaa.github.io/blog/2026-10-17-mcp-authorization-oauth/) — <sub>2026-10-17</sub>
 <!-- posts:end -->
