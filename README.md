@@ -53,9 +53,9 @@
 ## 최근 글
 
 <!-- posts:start -->
+- [ISMS-P 인증 — 무엇을 어떻게 심사하나](https://mmyonaa.github.io/blog/2026-10-25-isms-p/) — <sub>2026-10-25</sub>
 - [Azure MCP Server 3.0 안정판: 도구가 늘어난 것보다 업그레이드 체크리스트가 중요하다](https://mmyonaa.github.io/blog/2026-10-24-azure-mcp-server-3-0-upgrade-checklist/) — <sub>2026-10-24</sub>
 - [PHP2Shell — 앱 코드가 멀쩡해도 PHP 엔진이 뚫린다 (CVE-2026-109618, CVE-2026-109619)](https://mmyonaa.github.io/blog/2026-10-23-php2shell-php-core-rce-cve-2026-109618/) — <sub>2026-10-23</sub>
 - [빅데이터란 무엇인가 — 3V와 정형·반정형·비정형 데이터](https://mmyonaa.github.io/blog/2026-10-22-bigdata-3v-data-types/) — <sub>2026-10-22</sub>
 - [악성코드 분류 — 바이러스·웜·트로이목마·루트킷은 무엇이 다른가](https://mmyonaa.github.io/blog/2026-10-21-malware-types/) — <sub>2026-10-21</sub>
-- [REA: 바이너리를 읽는 MCP 서버가 GitHub 트렌딩 1위가 된 이유](https://mmyonaa.github.io/blog/2026-10-20-rea-reverse-engineering-mcp-server/) — <sub>2026-10-20</sub>
 <!-- posts:end -->
