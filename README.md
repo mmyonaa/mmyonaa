@@ -53,9 +53,9 @@
 ## 최근 글
 
 <!-- posts:start -->
+- [SQL 조인 — 내부·외부·교차 조인 구분하기](https://mmyonaa.github.io/blog/2026-10-28-sql-join-types/) — <sub>2026-10-28</sub>
 - [MCP Inspector로 내 서버 들여다보기 — 클라이언트 없이 도구를 직접 호출하기](https://mmyonaa.github.io/blog/2026-10-27-mcp-inspector-debugging/) — <sub>2026-10-27</sub>
 - [혼동행렬 — 정확도·정밀도·재현율·F1](https://mmyonaa.github.io/blog/2026-10-26-confusion-matrix-metrics/) — <sub>2026-10-26</sub>
 - [ISMS-P 인증 — 무엇을 어떻게 심사하나](https://mmyonaa.github.io/blog/2026-10-25-isms-p/) — <sub>2026-10-25</sub>
 - [Azure MCP Server 3.0 안정판: 도구가 늘어난 것보다 업그레이드 체크리스트가 중요하다](https://mmyonaa.github.io/blog/2026-10-24-azure-mcp-server-3-0-upgrade-checklist/) — <sub>2026-10-24</sub>
-- [PHP2Shell — 앱 코드가 멀쩡해도 PHP 엔진이 뚫린다 (CVE-2026-109618, CVE-2026-109619)](https://mmyonaa.github.io/blog/2026-10-23-php2shell-php-core-rce-cve-2026-109618/) — <sub>2026-10-23</sub>
 <!-- posts:end -->
