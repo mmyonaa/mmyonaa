@@ -53,9 +53,9 @@
 ## 최근 글
 
 <!-- posts:start -->
+- [GitHub-verified MCP 서버(Copilot connectors): MCP 설정을 플랫폼이 대신 맡을 때](https://mmyonaa.github.io/blog/2026-10-30-github-verified-mcp-copilot-connectors/) — <sub>2026-10-30</sub>
 - [PHP2Shell: PHP 코어의 인증 없는 RCE 두 건과 엠바고 소동](https://mmyonaa.github.io/blog/2026-10-29-php2shell-php-rce-embargo/) — <sub>2026-10-29</sub>
 - [SQL 조인 — 내부·외부·교차 조인 구분하기](https://mmyonaa.github.io/blog/2026-10-28-sql-join-types/) — <sub>2026-10-28</sub>
 - [MCP Inspector로 내 서버 들여다보기 — 클라이언트 없이 도구를 직접 호출하기](https://mmyonaa.github.io/blog/2026-10-27-mcp-inspector-debugging/) — <sub>2026-10-27</sub>
 - [혼동행렬 — 정확도·정밀도·재현율·F1](https://mmyonaa.github.io/blog/2026-10-26-confusion-matrix-metrics/) — <sub>2026-10-26</sub>
-- [ISMS-P 인증 — 무엇을 어떻게 심사하나](https://mmyonaa.github.io/blog/2026-10-25-isms-p/) — <sub>2026-10-25</sub>
 <!-- posts:end -->
