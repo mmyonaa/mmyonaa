@@ -53,9 +53,9 @@
 ## 최근 글
 
 <!-- posts:start -->
+- [파일 업로드·다운로드 취약점 — 웹셸과 경로 순회를 어떻게 막는가](https://mmyonaa.github.io/blog/2026-11-06-file-upload-vuln/) — <sub>2026-11-06</sub>
 - [Claude Code의 dynamic workflows: 서브에이전트 수백 개를 스크립트로 부리는 방식](https://mmyonaa.github.io/blog/2026-11-05-claude-code-dynamic-workflows/) — <sub>2026-11-05</sub>
 - [Node2Shell(CVE-2026-111497): Brotli 압축 해제가 서버 코드 실행으로 이어진 경로](https://mmyonaa.github.io/blog/2026-11-04-node2shell-brotli-rce/) — <sub>2026-11-04</sub>
 - [요구사항 공학 — 도출·분석·명세·확인](https://mmyonaa.github.io/blog/2026-11-03-requirements-engineering/) — <sub>2026-11-03</sub>
 - [MCP 서버 핸들러를 테스트로 묶어 두기](https://mmyonaa.github.io/blog/2026-11-02-mcp-server-unit-testing/) — <sub>2026-11-02</sub>
-- [결측값 처리 — 삭제·단순 대치·다중 대치](https://mmyonaa.github.io/blog/2026-11-01-missing-value-handling/) — <sub>2026-11-01</sub>
 <!-- posts:end -->
