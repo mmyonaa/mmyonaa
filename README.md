@@ -53,9 +53,9 @@
 ## 최근 글
 
 <!-- posts:start -->
+- [이상값 탐지 — IQR·Z-점수·ESD](https://mmyonaa.github.io/blog/2026-11-09-outlier-detection/) — <sub>2026-11-09</sub>
 - [MCP _meta 필드: 스펙 밖 메타데이터를 충돌 없이 싣는 법](https://mmyonaa.github.io/blog/2026-11-08-mcp-meta-field/) — <sub>2026-11-08</sub>
 - [회귀분석 — 최소제곱법과 네 가지 가정](https://mmyonaa.github.io/blog/2026-11-07-linear-regression-assumptions/) — <sub>2026-11-07</sub>
 - [파일 업로드·다운로드 취약점 — 웹셸과 경로 순회를 어떻게 막는가](https://mmyonaa.github.io/blog/2026-11-06-file-upload-vuln/) — <sub>2026-11-06</sub>
 - [Claude Code의 dynamic workflows: 서브에이전트 수백 개를 스크립트로 부리는 방식](https://mmyonaa.github.io/blog/2026-11-05-claude-code-dynamic-workflows/) — <sub>2026-11-05</sub>
-- [Node2Shell(CVE-2026-111497): Brotli 압축 해제가 서버 코드 실행으로 이어진 경로](https://mmyonaa.github.io/blog/2026-11-04-node2shell-brotli-rce/) — <sub>2026-11-04</sub>
 <!-- posts:end -->
