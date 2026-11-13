@@ -53,9 +53,9 @@
 ## 최근 글
 
 <!-- posts:start -->
+- [npm 12, 설치 스크립트를 기본 차단하다 — 무엇이 바뀌고 무엇을 점검해야 하나](https://mmyonaa.github.io/blog/2026-11-13-npm-12-install-scripts-off-by-default/) — <sub>2026-11-13</sub>
 - [메모리 배치 전략과 단편화 — 최초·최적·최악 적합](https://mmyonaa.github.io/blog/2026-11-12-memory-allocation-fragmentation/) — <sub>2026-11-12</sub>
 - [stdio MCP 서버를 원격 HTTP 서버로 올리기](https://mmyonaa.github.io/blog/2026-11-11-remote-mcp-deploy/) — <sub>2026-11-11</sub>
 - [다익스트라 최단 경로 — 우선순위 큐로 가장 가까운 정점부터 확정하기](https://mmyonaa.github.io/blog/2026-11-10-dijkstra/) — <sub>2026-11-10</sub>
 - [이상값 탐지 — IQR·Z-점수·ESD](https://mmyonaa.github.io/blog/2026-11-09-outlier-detection/) — <sub>2026-11-09</sub>
-- [MCP _meta 필드: 스펙 밖 메타데이터를 충돌 없이 싣는 법](https://mmyonaa.github.io/blog/2026-11-08-mcp-meta-field/) — <sub>2026-11-08</sub>
 <!-- posts:end -->
