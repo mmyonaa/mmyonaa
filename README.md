@@ -53,9 +53,9 @@
 ## 최근 글
 
 <!-- posts:start -->
+- [투 포인터로 O(n)에 훑기 — 정렬된 배열과 구간 문제](https://mmyonaa.github.io/blog/2026-11-17-two-pointers/) — <sub>2026-11-17</sub>
 - [ROC 곡선과 AUC — 임계값을 움직이면 무엇이 바뀌나](https://mmyonaa.github.io/blog/2026-11-16-roc-curve-auc/) — <sub>2026-11-16</sub>
 - [시스템 로그와 감사 — syslog·utmp·wtmp·btmp는 무엇을 기록하는가](https://mmyonaa.github.io/blog/2026-11-15-system-log-audit/) — <sub>2026-11-15</sub>
 - [AAIF가 10개 프로젝트가 된 날 — Agent Skills 기증이 MCP 개발자에게 뜻하는 것](https://mmyonaa.github.io/blog/2026-11-14-aaif-agent-skills-donation-ten-projects/) — <sub>2026-11-14</sub>
 - [npm 12, 설치 스크립트를 기본 차단하다 — 무엇이 바뀌고 무엇을 점검해야 하나](https://mmyonaa.github.io/blog/2026-11-13-npm-12-install-scripts-off-by-default/) — <sub>2026-11-13</sub>
-- [메모리 배치 전략과 단편화 — 최초·최적·최악 적합](https://mmyonaa.github.io/blog/2026-11-12-memory-allocation-fragmentation/) — <sub>2026-11-12</sub>
 <!-- posts:end -->
