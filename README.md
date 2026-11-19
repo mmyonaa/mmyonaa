@@ -53,9 +53,9 @@
 ## 최근 글
 
 <!-- posts:start -->
+- [라우팅 프로토콜 — RIP·OSPF·BGP 한 번에 구분하기](https://mmyonaa.github.io/blog/2026-11-19-routing-protocols/) — <sub>2026-11-19</sub>
 - [MCP 아이콘 — 서버와 도구에 시각 식별자 달기](https://mmyonaa.github.io/blog/2026-11-18-mcp-server-icons/) — <sub>2026-11-18</sub>
 - [투 포인터로 O(n)에 훑기 — 정렬된 배열과 구간 문제](https://mmyonaa.github.io/blog/2026-11-17-two-pointers/) — <sub>2026-11-17</sub>
 - [ROC 곡선과 AUC — 임계값을 움직이면 무엇이 바뀌나](https://mmyonaa.github.io/blog/2026-11-16-roc-curve-auc/) — <sub>2026-11-16</sub>
 - [시스템 로그와 감사 — syslog·utmp·wtmp·btmp는 무엇을 기록하는가](https://mmyonaa.github.io/blog/2026-11-15-system-log-audit/) — <sub>2026-11-15</sub>
-- [AAIF가 10개 프로젝트가 된 날 — Agent Skills 기증이 MCP 개발자에게 뜻하는 것](https://mmyonaa.github.io/blog/2026-11-14-aaif-agent-skills-donation-ten-projects/) — <sub>2026-11-14</sub>
 <!-- posts:end -->
