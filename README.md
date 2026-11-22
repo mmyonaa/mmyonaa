@@ -53,9 +53,9 @@
 ## 최근 글
 
 <!-- posts:start -->
+- [사용자 인증 3요소와 OTP·생체인증 — 무엇을 아는가, 가졌는가, 그 자체인가](https://mmyonaa.github.io/blog/2026-11-22-user-auth-otp/) — <sub>2026-11-22</sub>
 - [MCP 서버 업그레이드 도구는 왜 보관됐나 — 최신 자동 추적 대신 버전 고정](https://mmyonaa.github.io/blog/2026-11-21-pin-mcp-server-versions/) — <sub>2026-11-21</sub>
 - [Outlook NTLM 해시 유출 제로데이(CVE-2026-124194) — 점수 6.5짜리가 먼저 패치 대상인 이유](https://mmyonaa.github.io/blog/2026-11-20-outlook-ntlm-leak-cve-2026-124194/) — <sub>2026-11-20</sub>
 - [라우팅 프로토콜 — RIP·OSPF·BGP 한 번에 구분하기](https://mmyonaa.github.io/blog/2026-11-19-routing-protocols/) — <sub>2026-11-19</sub>
 - [MCP 아이콘 — 서버와 도구에 시각 식별자 달기](https://mmyonaa.github.io/blog/2026-11-18-mcp-server-icons/) — <sub>2026-11-18</sub>
-- [투 포인터로 O(n)에 훑기 — 정렬된 배열과 구간 문제](https://mmyonaa.github.io/blog/2026-11-17-two-pointers/) — <sub>2026-11-17</sub>
 <!-- posts:end -->
